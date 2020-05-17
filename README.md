@@ -1,3 +1,5 @@
+image:https://travis-ci.org/arutyun21/devops.svg?branch=master["Build Status", link="https://travis-ci.org/arutyun21/devops"]
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
