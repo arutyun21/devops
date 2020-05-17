@@ -60,7 +60,7 @@ class TodoList extends Component {
         })
         return(
             <div className="Todo">
-                <div classname="container1">
+                <div className="container1">
                     <div className="todoName">TODO:</div>
                     <div className="taskList">{taskList}</div>
                 </div>
