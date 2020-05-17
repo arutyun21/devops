@@ -1,4 +1,4 @@
-https://travis-ci.org/arutyun21/devops.svg?branch=master
+[![Build Status](https://travis-ci.org/arutyun21/devops.svg?branch=master)](https://travis-ci.org/arutyun21/devops)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
