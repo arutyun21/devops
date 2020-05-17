@@ -9,6 +9,5 @@ before_script:
   - "export DISPLAY=:99.0"
 script:
   - npm test
-  - CI=false npm run build
 after_success:
   - npm run coverage
