@@ -23,7 +23,10 @@ const rootReducer = (state = initState, action) => {
     }
     case 'SORT_BY_PRIOR': {
       return {
-        todolist: [...state.todolist].sort((a, b) => a.priority > b.priority ? 1 : -1),
+        todolist:
+          [...state.todolist].sort(
+            (a, b) => a.priority > b.priority ? 1 : -1
+          ),
       };
     }
     default: {

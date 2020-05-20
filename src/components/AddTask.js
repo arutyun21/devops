@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
 
 class AddTask extends Component{
-    state ={
+    state = {
         id: 0, 
         name: null, 
         description: null, 

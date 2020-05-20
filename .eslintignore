@@ -1,0 +1,9 @@
+/node_modules/**
+
+/coverage/**
+
+/build/**
+
+/src/components/TodoList.js
+
+/src/components/AddTask.js
